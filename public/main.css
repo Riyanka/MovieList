@@ -1,0 +1,50 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Nanum Gothic',
+    sans-serif;
+}
+
+.movieRow {
+  margin-top: 1em;
+  border-bottom: 0.1em solid gray
+}
+
+#movieList {
+  margin-right: 2em;
+}
+
+#description {
+  border-left: 0.1em solid gray;
+  margin-left: 2em;
+  padding-left: 4em;
+}
+
+
+
+#movieList {
+  margin-left: 1em;
+
+}
+
+
+
+#input {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-image: url('search-icon.ico');
+  background-position: .5em .5em;
+  background-repeat: no-repeat;
+  background-size: 1em;
+  padding-left: 2em;
+
+}
+
+#sortBy {
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+}
+
+#dropdownMenu {
+  color: black;
+}
